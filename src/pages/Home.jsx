@@ -32,7 +32,7 @@ export default function Home() {
             </h1>
             
             <p className="text-slate-400 text-base sm:text-lg leading-relaxed">
-              Mobile Systems Engineer with 5.5+ years of experience leading mobile architecture, SDK engineering, and fintech/enterprise app development. Currently co-founding and directing engineering at <Link to="/indus" className="text-cyan-400 underline underline-offset-4 hover:text-cyan-300">INDUS Innovation Labs</Link>.
+              Mobile Systems Engineer with 6.5+ years of experience leading mobile architecture, SDK engineering, and fintech/enterprise app development. Currently co-founding and directing engineering at <Link to="/indus" className="text-cyan-400 underline underline-offset-4 hover:text-cyan-300">INDUS Innovation Labs</Link>.
             </p>
             
             {/* CTA Buttons with Direct Resume Downloads */}
@@ -89,7 +89,7 @@ export default function Home() {
     val name = "Roshan Sinhe"
     val role = "Chief Architect"
     val company = "INDUS Innovation Labs"
-    val experience = "5.5+ Years"
+    val experience = "6.5+ Years"
 
     val coreStack = listOf(
         "Android SDK", "Kotlin", "Java",
