@@ -7,10 +7,10 @@ export default function Resume() {
       role: "Chief Architect & Co-Founder",
       company: "Indus Innovation Labs",
       period: "Present",
-      location: "Nagpur, India",
+      location: "Miami, FL, USA (Remote)",
       points: [
-        "Directing technical architecture and mobile application strategies across cross-functional engineering teams[cite: 1].",
-        "Overseeing full lifecycle client deployments, SDK designs, and mobile platform innovations[cite: 1]."
+        "Directing technical architecture and mobile application strategies across cross-functional engineering teams .",
+        "Overseeing full lifecycle client deployments, SDK designs, and mobile platform innovations ."
       ]
     },
     {
@@ -19,9 +19,9 @@ export default function Resume() {
       period: "Jul 2023 - Present",
       location: "Pune, India (Remote)",
       points: [
-        "Enhanced app stability by analyzing crash patterns, achieving a 40% reduction in crashes[cite: 1].",
-        "Engineered scalable MVVM architecture, enhancing maintainability and reducing dev time by 25%[cite: 1].",
-        "Engaged in 1-month onsite client deployment in Miami, USA to refine app functionalities[cite: 1]."
+        "Enhanced app stability by analyzing crash patterns, achieving a 40% reduction in crashes .",
+        "Engineered scalable MVVM architecture, enhancing maintainability and reducing dev time by 25% .",
+        "Engaged in 1-month onsite client deployment in Miami, USA to refine app functionalities ."
       ]
     },
     {
@@ -30,8 +30,8 @@ export default function Resume() {
       period: "Sep 2022 - Jun 2023",
       location: "Pune, India",
       points: [
-        "Built Android HMI solutions for navigation projects, improving system responsiveness by 30%[cite: 1].",
-        "Integrated GPS, map engines, and sensors to reduce location discrepancies by 25%[cite: 1]."
+        "Built Android HMI solutions for navigation projects, improving system responsiveness by 30% .",
+        "Integrated GPS, map engines, and sensors to reduce location discrepancies by 25% ."
       ]
     },
     {
@@ -40,9 +40,9 @@ export default function Resume() {
       period: "Mar 2020 - Sep 2022",
       location: "Pune, India",
       points: [
-        "Contributed to 5+ high-volume fintech applications used by millions[cite: 1].",
-        "Delivered 3+ SDK releases adopted by client applications[cite: 1].",
-        "Improved offline data retrieval speeds by 40% using Room DB[cite: 1]."
+        "Contributed to 5+ high-volume fintech applications used by millions .",
+        "Delivered 3+ SDK releases adopted by client applications .",
+        "Improved offline data retrieval speeds by 40% using Room DB ."
       ]
     }
   ];
@@ -53,10 +53,10 @@ export default function Resume() {
       <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-8 mb-8 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-6">
         <div>
           <h1 className="text-3xl font-extrabold text-white">Roshan Sinhe</h1>
-          <p className="text-cyan-400 font-medium text-sm mt-1">Chief Architect & Mobile Systems Engineer[cite: 1]</p>
+          <p className="text-cyan-400 font-medium text-sm mt-1">Chief Architect & Mobile Systems Engineer </p>
           <div className="flex flex-wrap gap-4 text-xs text-slate-400 mt-3">
-            <span className="flex items-center gap-1"><MapPin className="w-3.5 h-3.5" /> Nagpur, Maharashtra, India[cite: 1]</span>
-            <span className="flex items-center gap-1"><Mail className="w-3.5 h-3.5" /> roshan.sinhe04@gmail.com[cite: 1]</span>
+            <span className="flex items-center gap-1"><MapPin className="w-3.5 h-3.5" /> Nagpur, Maharashtra, India </span>
+            <span className="flex items-center gap-1"><Mail className="w-3.5 h-3.5" /> roshan.sinhe04@gmail.com </span>
           </div>
         </div>
 
@@ -111,11 +111,11 @@ export default function Resume() {
           <div className="space-y-4 text-sm text-slate-300">
             <div>
               <strong className="block text-white">PG-Diploma in Mobile Computing</strong>
-              <span className="text-xs text-slate-400">CDAC-Sunbeam Institute of Technology (2019-2020)[cite: 1]</span>
+              <span className="text-xs text-slate-400">CDAC-Sunbeam Institute of Technology (2019-2020) </span>
             </div>
             <div>
               <strong className="block text-white">B.E. in Computer Technology</strong>
-              <span className="text-xs text-slate-400">RTMNU Nagpur (2015-2019)[cite: 1]</span>
+              <span className="text-xs text-slate-400">RTMNU Nagpur (2015-2019) </span>
             </div>
           </div>
         </div>

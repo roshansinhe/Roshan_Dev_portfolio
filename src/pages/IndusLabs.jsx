@@ -50,20 +50,20 @@ export default function IndusLabs() {
         <div className="md:col-span-8 bg-slate-900/40 border border-slate-800 rounded-xl p-6 sm:p-8">
           <h2 className="text-xl font-bold text-white mb-4">My Role as Chief Architect</h2>
           <p className="text-slate-400 text-sm sm:text-base leading-relaxed mb-4">
-            At INDUS Innovation Labs, I lead technology strategies, define system architecture blueprints, and oversee mobile development cycles across iOS and Android platforms[cite: 1].
+            At INDUS Innovation Labs, I lead technology strategies, define system architecture blueprints, and oversee mobile development cycles across iOS and Android platforms .
           </p>
           <ul className="space-y-3 text-slate-300 text-sm">
             <li className="flex items-start gap-2">
               <span className="text-cyan-400 mt-1">•</span>
-              <span>Directing core engineering decisions across client and internal product lines[cite: 1].</span>
+              <span>Directing core engineering decisions across client and internal product lines .</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-cyan-400 mt-1">•</span>
-              <span>Designing scalable SDKs, backend integrations, and offline-first mobile apps[cite: 1].</span>
+              <span>Designing scalable SDKs, backend integrations, and offline-first mobile apps .</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-cyan-400 mt-1">•</span>
-              <span>Managing full lifecycle app store launches, CI/CD automation, and technical governance[cite: 1].</span>
+              <span>Managing full lifecycle app store launches, CI/CD automation, and technical governance .</span>
             </li>
           </ul>
         </div>
@@ -82,7 +82,7 @@ export default function IndusLabs() {
               </div>
               <div>
                 <span className="block font-semibold text-slate-200">Location</span>
-                <span>Nagpur, India[cite: 1]</span>
+                <span>Nagpur, India </span>
               </div>
             </div>
           </div>

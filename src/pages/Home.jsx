@@ -29,7 +29,7 @@ export default function Home() {
             </h1>
             
             <p className="text-slate-400 text-base sm:text-lg leading-relaxed">
-              Mobile Systems Engineer with 5.5+ years of experience leading mobile architecture, SDK engineering, and fintech/enterprise app development[cite: 1]. Currently co-founding and directing engineering at <Link to="/indus" className="text-cyan-400 underline underline-offset-4 hover:text-cyan-300">Indus Innovation Labs</Link>[cite: 1].
+              Mobile Systems Engineer with 5.5+ years of experience leading mobile architecture, SDK engineering, and fintech/enterprise app development. Currently co-founding and directing engineering at <Link to="/indus" className="text-cyan-400 underline underline-offset-4 hover:text-cyan-300">Indus Innovation Labs</Link> .
             </p>
             
             <div className="flex flex-wrap gap-4 pt-2">
@@ -50,8 +50,8 @@ export default function Home() {
             </div>
 
             <div className="flex items-center gap-6 text-xs text-slate-400 pt-4 border-t border-slate-800/80">
-              <span className="flex items-center gap-1.5"><MapPin className="w-4 h-4 text-cyan-400"/> Nagpur / Pune, India[cite: 1]</span>
-              <span className="flex items-center gap-1.5"><Award className="w-4 h-4 text-cyan-400"/> USA B1/B2 Valid Visa[cite: 1]</span>
+              <span className="flex items-center gap-1.5"><MapPin className="w-4 h-4 text-cyan-400"/> Nagpur / Pune, India </span>
+              <span className="flex items-center gap-1.5"><Award className="w-4 h-4 text-cyan-400"/> USA B1/B2 Valid Visa </span>
             </div>
           </div>
 
@@ -94,17 +94,17 @@ export default function Home() {
           <div className="bg-slate-900/40 border border-slate-800 p-6 rounded-xl">
             <Smartphone className="w-8 h-8 text-cyan-400 mb-4" />
             <h3 className="text-lg font-bold text-white mb-2">Native Mobile Systems</h3>
-            <p className="text-slate-400 text-sm">Deep expertise in Kotlin, Jetpack Compose, MVVM/Clean Architecture, and offline-first RoomDB engines[cite: 1].</p>
+            <p className="text-slate-400 text-sm">Deep expertise in Kotlin, Jetpack Compose, MVVM/Clean Architecture, and offline-first RoomDB engines .</p>
           </div>
           <div className="bg-slate-900/40 border border-slate-800 p-6 rounded-xl">
             <Layers className="w-8 h-8 text-cyan-400 mb-4" />
             <h3 className="text-lg font-bold text-white mb-2">Modular SDKs & HMI</h3>
-            <p className="text-slate-400 text-sm">Architected Navigation SDKs for vehicle HMI displays and reusable Fintech SDK suites adopted by millions[cite: 1].</p>
+            <p className="text-slate-400 text-sm">Architected Navigation SDKs for vehicle HMI displays and reusable Fintech SDK suites adopted by millions .</p>
           </div>
           <div className="bg-slate-900/40 border border-slate-800 p-6 rounded-xl">
             <Building2 className="w-8 h-8 text-cyan-400 mb-4" />
             <h3 className="text-lg font-bold text-white mb-2">Technical Leadership</h3>
-            <p className="text-slate-400 text-sm">Co-founder and Chief Architect at INDUS Innovation Labs, leading mobile product design and client deployments[cite: 1].</p>
+            <p className="text-slate-400 text-sm">Co-founder and Chief Architect at INDUS Innovation Labs, leading mobile product design and client deployments .</p>
           </div>
         </div>
       </section>

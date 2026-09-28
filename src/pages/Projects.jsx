@@ -8,30 +8,30 @@ export default function Projects() {
     {
       title: "CCL SEAID & mBark Revamp",
       category: "enterprise",
-      description: "Architected enterprise applications with Kotlin, Jetpack Compose, and MLKit (face recognition & barcode scanning). Built offline-first capabilities using RoomDB and robust security protocols[cite: 1].",
+      description: "Architected enterprise applications with Kotlin, Jetpack Compose, and MLKit (face recognition & barcode scanning). Built offline-first capabilities using RoomDB and robust security protocols .",
       tech: ["Kotlin", "Jetpack Compose", "Room DB", "MLKit", "MVVM"],
       impact: "Reduced offline sync issues & improved user workflow efficiency."
     },
     {
       title: "Navigation SDK (OLA Scooter HMI)",
       category: "sdks",
-      description: "Designed navigation SDK for vehicle HMI displays with real-time location tracking, route rendering APIs, and dark/light modes using IPC mechanisms[cite: 1].",
+      description: "Designed navigation SDK for vehicle HMI displays with real-time location tracking, route rendering APIs, and dark/light modes using IPC mechanisms .",
       tech: ["Kotlin", "Hilt", "IPC", "Routing APIs", "MVVM"],
-      impact: "Reduced location discrepancies by 25% and improved responsiveness by 30%[cite: 1]."
+      impact: "Reduced location discrepancies by 25% and improved responsiveness by 30% ."
     },
     {
       title: "Fintech SDK Suite (Mutual Fund & Digi Gold)",
       category: "sdks",
-      description: "Built modular, highly secure SDKs adopted by multiple client applications across the financial domain, incorporating MPChart for real-time visualization[cite: 1].",
+      description: "Built modular, highly secure SDKs adopted by multiple client applications across the financial domain, incorporating MPChart for real-time visualization .",
       tech: ["Android SDK", "Kotlin", "Hilt", "Retrofit", "Security"],
-      impact: "Delivered 3+ SDK releases serving millions of end users[cite: 1]."
+      impact: "Delivered 3+ SDK releases serving millions of end users ."
     },
     {
       title: "Muster Mobile & Service Suite App",
       category: "enterprise",
-      description: "Emergency management and crew cabin systems for cruise lines featuring real-time WebSocket communication, BLE data exchange, and offline support[cite: 1].",
+      description: "Emergency management and crew cabin systems for cruise lines featuring real-time WebSocket communication, BLE data exchange, and offline support .",
       tech: ["BLE", "WebSockets", "MLKit", "Scoped Storage", "Kotlin"],
-      impact: "Enabled reliable real-time coordination without active internet connectivity[cite: 1]."
+      impact: "Enabled reliable real-time coordination without active internet connectivity ."
     }
   ];
 
@@ -44,7 +44,7 @@ export default function Projects() {
       <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-10 gap-4">
         <div>
           <h1 className="text-3xl font-extrabold text-white mb-2">Systems, SDKs & Applications</h1>
-          <p className="text-slate-400 text-sm">Key enterprise platforms, navigation engines, and SDKs engineered across my career[cite: 1].</p>
+          <p className="text-slate-400 text-sm">Key enterprise platforms, navigation engines, and SDKs engineered across my career .</p>
         </div>
         <div className="flex gap-2 bg-slate-900 p-1 rounded-lg border border-slate-800 self-start">
           <button 
