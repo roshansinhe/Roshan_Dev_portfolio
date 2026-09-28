@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import IndusLabs from './pages/IndusLabs';
 import Projects from './pages/Projects';
 import Resume from './pages/Resume';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="/indus" element={<IndusLabs />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/resume" element={<Resume />} />
+          <Route path="/findmycurrentlocation/privacypolicy" element={<PrivacyPolicy />} />
         </Routes>
       </div>
     </Router>
